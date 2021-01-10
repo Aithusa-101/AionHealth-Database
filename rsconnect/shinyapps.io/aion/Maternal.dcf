@@ -1,0 +1,12 @@
+name: Maternal
+title: Maternal
+username:
+account: aion
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2927014
+bundleId: 4074526
+url: https://aion.shinyapps.io/Maternal/
+when: 1610159199.55807
+asMultiple: FALSE
+asStatic: FALSE
